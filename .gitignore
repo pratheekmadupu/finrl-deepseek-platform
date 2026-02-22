@@ -1,0 +1,23 @@
+# node
+node_modules
+.env
+dist
+build
+
+# python
+__pycache__/
+*.pyc
+venv/
+.env/
+
+# data
+data/
+models/
+checkpoints/
+*.csv
+*.pt
+*.pth
+
+# system
+.DS_Store
+Thumbs.db
